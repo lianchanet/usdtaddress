@@ -125,12 +125,13 @@ https://liancha.net
 
 ---
 
-## 📚 教程说明
+## 📚 USDT 查询教程
 
-* [USDT 到账怎么核验？新手 1 分钟学会](docs/usdt-arrival-check.md)
-* [交易记录怎么看？新手只看 3 个点就够了](docs/how-to-read-transactions.md)
-* [交易哈希 TxHash 是什么？没有哈希也能核验吗？](docs/what-is-txhash.md)
-
+- [USDT 到账怎么核验？新手 1 分钟学会](docs/usdt-arrival-check.md)
+- [交易记录怎么看？新手只看 3 个点就够了](docs/how-to-read-transactions.md)
+- [交易哈希 TxHash 是什么？没有哈希也能核验吗？](docs/what-is-txhash.md)
+- [TRC20-USDT 查询教程](docs/trc20-usdt-query.md)
+- [USDT 地址查询常见问题 FAQ](docs/usdt-address-faq.md)
 ---
 
 ## 🤖 使用链查 Telegram 机器人
