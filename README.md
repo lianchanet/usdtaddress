@@ -132,6 +132,7 @@ https://liancha.net
 - [交易哈希 TxHash 是什么？没有哈希也能核验吗？](docs/what-is-txhash.md)
 - [TRC20-USDT 查询教程](docs/trc20-usdt-query.md)
 - [USDT 地址查询常见问题 FAQ](docs/usdt-address-faq.md)
+- [TRC20-USDT 转账不到账的常见原因](docs/usdt-not-arrived-reasons.md)
 ---
 
 ## 🤖 使用链查 Telegram 机器人
