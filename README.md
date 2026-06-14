@@ -127,12 +127,28 @@ https://liancha.net
 
 ## 📚 USDT 查询教程
 
-- [USDT 到账怎么核验？新手 1 分钟学会](docs/usdt-arrival-check.md)
-- [交易记录怎么看？新手只看 3 个点就够了](docs/how-to-read-transactions.md)
-- [交易哈希 TxHash 是什么？没有哈希也能核验吗？](docs/what-is-txhash.md)
-- [TRC20-USDT 查询教程](docs/trc20-usdt-query.md)
-- [USDT 地址查询常见问题 FAQ](docs/usdt-address-faq.md)
-- [TRC20-USDT 转账不到账的常见原因](docs/usdt-not-arrived-reasons.md)
+<p>
+  <img src="https://img.shields.io/badge/教程-USDT到账核验-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/场景-商家收款-0f766e?style=flat-square" />
+  <img src="https://img.shields.io/badge/工具-链上查询-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/适合-新手查账-16a34a?style=flat-square" />
+</p>
+
+这里整理了一些 USDT 地址查询、TRC20-USDT 到账核验、钱包地址交易明细查看相关教程，适合新手、商家、财务和客服参考。
+
+| 教程                                                        | 说明                        |
+| --------------------------------------------------------- | ------------------------- |
+| [USDT 到账怎么核验？](docs/usdt-arrival-check.md)                | 通过余额和交易明细判断 USDT 是否真正到账   |
+| [交易记录怎么看？](docs/how-to-read-transactions.md)              | 新手查看交易方向、金额和时间的基础教程       |
+| [交易哈希 TxHash 是什么？](docs/what-is-txhash.md)                | 了解 TxHash 的作用，以及没有哈希时如何核验 |
+| [TRC20-USDT 查询教程](docs/trc20-usdt-query.md)               | 查看 TRON 网络 USDT 转账记录和到账明细 |
+| [USDT 地址查询常见问题 FAQ](docs/usdt-address-faq.md)             | 整理地址查询、到账核验、截图判断等常见问题     |
+| [TRC20-USDT 转账不到账的常见原因](docs/usdt-not-arrived-reasons.md) | 排查 USDT 未到账、转错链、转错地址等问题   |
+| [USDT 转账截图可信吗？](docs/usdt-screenshot-verification.md)     | 判断截图是否可信，并用链上记录进行核验       |
+
+> [!TIP]
+> 如果你是商家或客服，建议优先查看 **USDT 到账核验**、**交易记录怎么看** 和 **转账截图核验** 这几篇内容。
+
 ---
 
 ## 🤖 使用链查 Telegram 机器人
